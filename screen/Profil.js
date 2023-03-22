@@ -5,7 +5,7 @@ import Icon from 'react-native-vector-icons/FontAwesome5';
 const Profil = ({navigation}) => {
      return (
           <View style={{flex: 1}}>
-               <View style={{flex: 0.5, backgroundColor: '#212121'}}></View>
+               <View style={{flex: 0.5, backgroundColor: '#212121', borderBottomEndRadius: 50, borderBottomStartRadius: 50}}></View>
                <View style={{flex: 1, backgroundColor: '#FFFF'}}>
                     <View style={{justifyContent: 'center', alignItems: 'center'}}>
                          <Image source={require('../assets/Fikri.jpg')}
