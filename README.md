@@ -10,8 +10,8 @@ RB
 # Laporan UTS PAM
 https://docs.google.com/document/d/1UO5mMN5SnwLFGUXvuakGZNnN_RFrC6dxlr1FiUj12lk/edit
 
-# Link Download Aplikasi
-https://expo.dev/artifacts/eas/fn8XJNHGGpvhzhBwyruDUE.aab
+# Link Download Aplikasi Dan Dokumentasi 
+https://drive.google.com/drive/folders/1DhauSLdZYZGw4esjBZJRJFufnOaMCvui?usp=share_link
 
 # Cara Install dan Menjalankan
 ```bash 
