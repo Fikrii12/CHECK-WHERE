@@ -8,8 +8,7 @@ Nurul Fikri<br>
 ```bash 
     https://github.com/Fikrii12/CHECK-WHERE.git
     cd CHEK-WHERE
-    npm install
-    npm start
+    expo start
 ```
 
 
