@@ -12,7 +12,7 @@ const Detail = (navigation) => {
                          <MapView style={{width: '80%', height: '80%', }} />
                     </View>
                </View>
-               <View style={{flex: 0.2, backgroundColor: '#212121', borderTopEndRadius: 50, borderTopStartRadius: 50}}>
+               <View style={{flex: 0.3, backgroundColor: '#212121', borderTopEndRadius: 50, borderTopStartRadius: 50}}>
 
                     <View style={{marginTop: 30, flexDirection: 'row'}}>
                          <TouchableOpacity onPress={ () => navigation.goBack()}
