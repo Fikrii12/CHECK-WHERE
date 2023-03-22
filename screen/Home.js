@@ -24,7 +24,7 @@ const rumah = ({navigation}) => {
                               position: 'absolute'}}/>
                     </View>
 
-                    <TouchableOpacity onPress={ () => navigation.goBack()}
+                    <TouchableOpacity onPress={() => navigation.navigate('Detail')}
                          style={{
                          flex: 1, 
                          justifyContent: 'center', 
