@@ -11,9 +11,11 @@ Nurul Fikri<br>
     npm install
     npm start 
 
+
+
 # Screenshot
 <center>
-    <img src="assets/Home.jpeg" width="30%">
-    <img src="assets/Profil.jpeg" width="30%">
-    <img src="assets/Detail.jpeg" width="30%">
+    <img src="assets/Home.jpg" width="30%">
+    <img src="assets/Profil.jpg" width="30%">
+    <img src="assets/Detail.jpg" width="30%">
 </center>
