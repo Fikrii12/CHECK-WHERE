@@ -10,3 +10,10 @@ Nurul Fikri<br>
     cd CHEK-WHERE
     npm install
     npm start 
+
+# Screenshot
+<center>
+    <img src="assets/Home.jpeg" width="30%">
+    <img src="assets/Profil.jpeg" width="30%">
+    <img src="assets/Detail.jpeg" width="30%">
+</center>
